@@ -1,4 +1,4 @@
-# Uniques ![](https://travis-ci.org/montanaflynn/uniques)
+# Uniques ![https://travis-ci.org/montanaflynn/uniques](https://travis-ci.org/montanaflynn/uniques.svg)
 
 Filter out duplicates leaving only the uniques in a new array.
 
