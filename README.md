@@ -1,8 +1,8 @@
-## uniques
+# Uniques ![](https://travis-ci.org/montanaflynn/uniques)
 
-Filter out duplicates in an array.
+Filter out duplicates leaving only the uniques in a new array.
 
-## Install
+### Install
 
 ```shell
 npm install uniques --save
